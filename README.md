@@ -2,13 +2,13 @@
 
 I'm an Android developer at Michigan Software Labs, with experience in full stack web development as well. Out of everything I've worked on, I've found Android development to be my passion and I'm always looking for more ways to grow my skills and learn new things.
 
-- 🔭 I’m currently working on:
-  - Smite Handbook (aka Materialized Smite) https://github.com/Matrix159/Materialized-Smite
+🔭 I’m currently working on:
+  - [Smite Handbook](https://github.com/Matrix159/Materialized-Smite)
     
     An application experimenting with newer Android technologies while providing information for players in the game Smite.
-  - Mastadon Clone
+  - [Mastadon Clone](https://github.com/Matrix159/Mastadon-Clone) 
     
-    My big attempt at creating a Mastadon app that I hope to support on both iOS and Android.
+    My attempt at creating a Mastadon app that I hope to support on both iOS and Android.
 
 <!--
 **Matrix159/Matrix159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
