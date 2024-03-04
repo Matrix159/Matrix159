@@ -6,9 +6,6 @@ I'm an Android developer at Michigan Software Labs, with experience in full stac
   - [Smite Handbook](https://github.com/Matrix159/Materialized-Smite)
     
     An application experimenting with newer Android technologies while providing information for players in the game Smite.
-  - [Mastadon Clone](https://github.com/Matrix159/Mastadon-Clone) 
-    
-    My attempt at creating a Mastadon app that I hope to support on both iOS and Android.
 
 <!--
 **Matrix159/Matrix159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
