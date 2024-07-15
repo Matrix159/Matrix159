@@ -1,6 +1,6 @@
 ### Hi there! I'm Josh, welcome to my little code cave 👋
 
-I'm an Android Engineer at Michigan Software Labs, with experience in full stack web development as well. Out of everything I've worked on, I've found Android development to be my passion and I'm always looking for more ways to grow my skills and learn new things.
+I'm a Senior Android Engineer @ Honor, with experience in full stack web development as well. Out of everything I've worked on, I've found Android development to be my passion and I'm always looking for more ways to grow my skills and learn new things.
 
 🔭 I’m currently working on:
   - [Smite Handbook](https://github.com/Matrix159/Materialized-Smite)
